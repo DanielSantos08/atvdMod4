@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+#passagens{
+    display: flex;
+    margin: 0 auto ;
+    max-width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.destinos{
+    width: 30%;
+    margin: 1%;
+    padding: 1%;
+    border: 2px yellow solid;
+}
+.one{
+    margin: 0;
+    text-align: center;
+}
+img{
+    height: 30rem;
+    width: 100%;
+}
+.imgDestinos{
+    height: 75%;
+}
+.FormaPagamento{
+    height: 30%;
+    width: 50%;
+}p{
+    padding: 0;
+    margin: 0;
+}
+@media screen and (max-width: 770px) {
+    .destinos{
+        width: 100%;
+    }a.btn.btn-success ,p{
+        padding: 0;
+        margin: 0;
+    }
+}
