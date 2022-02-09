@@ -1,5 +1,4 @@
 # Atividade Módulo 4 Recode-Pro 2021
-Vamos a mais uma etapa para evolução do projeto Agência de Viagens, com recursos de interface usando React, relacionamento entre tabelas do Banco de Dados, manipulação de JSON e substituição do C# por Java. 
 
 *Banco de dados:
 Ajustes no modelo físico (SQL) e seus relacionamentos se houver necessidades ou criar a base de dados usando o ORM (Object-Relational Mapping ou em português mapeamento objeto-relacional).  
